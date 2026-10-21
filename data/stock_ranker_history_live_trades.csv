@@ -1,0 +1,25 @@
+date,ticker,time,action,price,reason
+2026-10-21,BE,10:55:00,BUY,236.4532,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-21,BE,15:03:00,SELL,237.6671,Trailing stop hit (gains locked in)
+2026-10-21,BE,15:17:00,BUY,239.6498,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-21,BE,15:56:00,SELL,238.4357,End of day: flat before the close
+2026-10-21,FLEX,10:01:00,BUY,89.0995,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-21,FLEX,10:09:00,SELL,88.5457,Trend broke: below VWAP with falling momentum
+2026-10-21,COHR,15:31:00,BUY,239.0245,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-21,COHR,15:56:00,SELL,237.7311,End of day: flat before the close
+2026-10-21,MRNA,09:53:00,BUY,248.2791,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-21,MRNA,09:57:00,SELL,244.2778,Stop-loss hit
+2026-10-21,MRNA,11:00:00,BUY,248.4242,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-21,MRNA,11:57:00,SELL,244.7825,Stop-loss hit
+2026-10-21,MRNA,12:21:00,BUY,247.5637,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-21,MRNA,15:55:00,SELL,249.6351,Trailing stop hit (gains locked in)
+2026-10-21,CIEN,11:58:00,BUY,358.169,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-21,CIEN,12:37:00,SELL,355.912,Trend broke: below VWAP with falling momentum
+2026-10-21,CIEN,13:07:00,BUY,359.2595,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-21,CIEN,15:56:00,SELL,361.0494,End of day: flat before the close
+2026-10-21,SNDK,10:35:00,BUY,1374.0166,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-21,SNDK,15:11:00,SELL,1375.7318,Trailing stop hit (gains locked in)
+2026-10-21,TWLO,10:05:00,BUY,267.9089,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-21,TWLO,10:39:00,SELL,266.9764,Trend broke: below VWAP with falling momentum
+2026-10-21,TWLO,11:02:00,BUY,267.7738,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-21,TWLO,14:58:00,SELL,267.896,Trend broke: below VWAP with falling momentum
