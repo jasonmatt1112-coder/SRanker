@@ -1,9 +1,0 @@
-streamlit
-streamlit-autorefresh
-yfinance
-pandas
-numpy
-requests
-lxml
-altair
-tzdata
