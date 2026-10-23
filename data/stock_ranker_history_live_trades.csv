@@ -35,3 +35,37 @@ date,ticker,time,action,price,reason
 2026-10-22,COIN,10:36:00,SELL,170.7746,Trend broke: below VWAP with falling momentum
 2026-10-22,INTC,09:59:00,BUY,88.7443,"Breakout confirmed above the opening range, VWAP and momentum agree"
 2026-10-22,INTC,10:16:00,SELL,87.8181,Trend broke: below VWAP with falling momentum
+2026-10-23,MRNA,09:57:00,BUY,202.0301,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-23,MRNA,09:59:00,SELL,198.4108,Stop-loss hit
+2026-10-23,MRNA,10:37:00,BUY,200.9304,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-23,MRNA,11:03:00,SELL,200.4197,Trailing stop hit (gains locked in)
+2026-10-23,MRNA,11:19:00,BUY,201.6918,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-23,MRNA,12:55:00,SELL,203.5282,Trailing stop hit (gains locked in)
+2026-10-23,FLEX,10:40:00,BUY,76.6783,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-23,FLEX,15:40:00,SELL,76.042,Trend broke: below VWAP with falling momentum
+2026-10-23,COHR,10:02:00,BUY,213.0265,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-23,COHR,12:12:00,SELL,211.7841,Trend broke: below VWAP with falling momentum
+2026-10-23,COHR,12:45:00,BUY,212.7763,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-23,COHR,12:55:00,SELL,211.6141,Trend broke: below VWAP with falling momentum
+2026-10-23,CIEN,10:41:00,BUY,326.4331,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-23,CIEN,11:13:00,SELL,321.839,Stop-loss hit
+2026-10-23,CIEN,12:00:00,BUY,326.5832,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-23,CIEN,15:01:00,SELL,322.2788,Stop-loss hit
+2026-10-23,SMCI,10:40:00,BUY,34.107,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-23,SMCI,11:07:00,SELL,33.6982,Trend broke: below VWAP with falling momentum
+2026-10-23,SMCI,12:01:00,BUY,34.007,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-23,SMCI,12:22:00,SELL,33.7031,Trend broke: below VWAP with falling momentum
+2026-10-23,SNDK,10:41:00,BUY,1298.0387,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-23,SNDK,11:03:00,SELL,1279.4999,Stop-loss hit
+2026-10-23,MRVL,09:49:00,BUY,227.3836,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-23,MRVL,10:11:00,SELL,226.2668,Trend broke: below VWAP with falling momentum
+2026-10-23,MRVL,10:32:00,BUY,228.8344,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-23,MRVL,13:12:00,SELL,227.6211,Trend broke: below VWAP with falling momentum
+2026-10-23,MRVL,13:33:00,BUY,227.9139,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-23,MRVL,15:52:00,SELL,227.2734,Trend broke: below VWAP with falling momentum
+2026-10-23,LITE,10:00:00,BUY,771.3855,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-23,LITE,11:03:00,SELL,778.4206,Trailing stop hit (gains locked in)
+2026-10-23,LITE,11:28:00,BUY,779.1193,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-23,LITE,13:05:00,SELL,769.0852,Stop-loss hit
+2026-10-23,VST,10:42:00,BUY,140.6103,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-23,VST,13:26:00,SELL,139.7551,Trend broke: below VWAP with falling momentum
