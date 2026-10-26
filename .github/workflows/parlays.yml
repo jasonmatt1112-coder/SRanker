@@ -1,0 +1,36 @@
+name: Hyperdrift parlays
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"        # every 15 minutes (GitHub may delay runs by a few minutes)
+  workflow_dispatch:              # "Run workflow" button
+
+permissions:
+  contents: write
+
+concurrency: hyperdrift-tracker   # same group as tracker.yml so the two never push at once
+
+jobs:
+  parlays:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      HISTORY_PATH: data/stock_ranker_history.csv
+      ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}     # needed for live DraftKings prices AND player props (the-odds-api.com)
+      PROPS_REFRESH_MIN: "90"        # minutes between Odds-API prop pulls per game (credits = markets x games per pull)
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install
+        run: pip install -q pandas numpy requests lxml yfinance altair tzdata
+      - name: Price and grade parlays
+        run: python tracker.py --parlays
+      - name: Save results to the repo
+        if: always()
+        run: |
+          git config user.name "hyperdrift-tracker"
+          git config user.email "hyperdrift-tracker@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || (git commit -m "Update parlays" && git pull --rebase && git push)
