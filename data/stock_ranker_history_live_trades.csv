@@ -69,3 +69,45 @@ date,ticker,time,action,price,reason
 2026-10-23,LITE,13:05:00,SELL,769.0852,Stop-loss hit
 2026-10-23,VST,10:42:00,BUY,140.6103,"Breakout confirmed above the opening range, VWAP and momentum agree"
 2026-10-23,VST,13:26:00,SELL,139.7551,Trend broke: below VWAP with falling momentum
+2026-10-26,BE,09:47:00,BUY,200.5952,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-26,BE,10:02:00,SELL,198.0509,Stop-loss hit
+2026-10-26,BE,10:18:00,BUY,200.7134,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-26,BE,11:50:00,SELL,207.7411,Trailing stop hit (gains locked in)
+2026-10-26,BE,12:18:00,BUY,208.034,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-26,BE,15:47:00,SELL,205.1873,Stop-loss hit
+2026-10-26,SNDK,13:16:00,BUY,1276.2628,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-26,SNDK,15:33:00,SELL,1260.9939,Stop-loss hit
+2026-10-26,MRNA,09:50:00,BUY,195.4951,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-26,MRNA,09:57:00,SELL,198.0259,Trailing stop hit (gains locked in)
+2026-10-26,MRNA,10:17:00,BUY,201.5057,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-26,MRNA,10:32:00,SELL,198.1309,Stop-loss hit
+2026-10-26,MRNA,11:01:00,BUY,196.3581,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-26,MRNA,11:44:00,SELL,197.1414,Trailing stop hit (gains locked in)
+2026-10-26,FLEX,10:19:00,BUY,77.1185,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-26,FLEX,10:25:00,SELL,76.5217,Trend broke: below VWAP with falling momentum
+2026-10-26,FLEX,10:40:00,BUY,76.9535,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-26,FLEX,14:34:00,SELL,77.921,Trailing stop hit (gains locked in)
+2026-10-26,FLEX,15:15:00,BUY,77.8289,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-26,FLEX,15:25:00,SELL,77.5787,Trend broke: below VWAP with falling momentum
+2026-10-26,WDC,10:57:00,BUY,353.3816,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-26,WDC,15:50:00,SELL,359.0204,Trailing stop hit (gains locked in)
+2026-10-26,STX,10:56:00,BUY,646.0428,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-26,STX,14:55:00,SELL,657.0363,Trailing stop hit (gains locked in)
+2026-10-26,STX,15:14:00,BUY,657.8087,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-26,STX,15:32:00,SELL,654.5825,Trend broke: below VWAP with falling momentum
+2026-10-26,COHR,09:47:00,BUY,214.8712,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-26,COHR,09:57:00,SELL,211.6191,Stop-loss hit
+2026-10-26,COHR,10:48:00,BUY,215.7678,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-26,COHR,15:42:00,SELL,222.6386,Trailing stop hit (gains locked in)
+2026-10-26,SMCI,10:50:00,BUY,33.1465,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-26,SMCI,11:52:00,SELL,32.9435,Trend broke: below VWAP with falling momentum
+2026-10-26,FIX,09:47:00,BUY,1235.6075,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-26,FIX,14:33:00,SELL,1249.0751,Trailing stop hit (gains locked in)
+2026-10-26,FIX,15:19:00,BUY,1249.2443,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-26,FIX,15:27:00,SELL,1245.2521,Trend broke: below VWAP with falling momentum
+2026-10-26,CRWD,10:23:00,BUY,260.7103,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-26,CRWD,12:08:00,SELL,259.84,Trailing stop hit (gains locked in)
+2026-10-26,CRWD,12:25:00,BUY,260.4652,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-26,CRWD,12:42:00,SELL,259.6201,Trend broke: below VWAP with falling momentum
+2026-10-26,CRWD,12:56:00,BUY,260.6903,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-26,CRWD,15:56:00,SELL,261.6191,End of day: flat before the close
