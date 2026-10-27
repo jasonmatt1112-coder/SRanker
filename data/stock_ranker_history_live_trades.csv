@@ -111,3 +111,27 @@ date,ticker,time,action,price,reason
 2026-10-26,CRWD,12:42:00,SELL,259.6201,Trend broke: below VWAP with falling momentum
 2026-10-26,CRWD,12:56:00,BUY,260.6903,"Breakout confirmed above the opening range, VWAP and momentum agree"
 2026-10-26,CRWD,15:56:00,SELL,261.6191,End of day: flat before the close
+2026-10-27,FICO,11:32:00,BUY,704.1419,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-27,FICO,11:59:00,SELL,700.6995,Trend broke: below VWAP with falling momentum
+2026-10-27,BE,11:02:00,BUY,224.022,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-27,BE,11:10:00,SELL,220.9695,Stop-loss hit
+2026-10-27,GLW,12:09:00,BUY,127.3211,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-27,GLW,13:05:00,SELL,126.3118,Trend broke: below VWAP with falling momentum
+2026-10-27,LITE,10:26:00,BUY,849.4345,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-27,LITE,12:41:00,SELL,869.2951,Trailing stop hit (gains locked in)
+2026-10-27,LITE,12:59:00,BUY,870.5551,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-27,LITE,15:56:00,SELL,864.7524,End of day: flat before the close
+2026-10-27,COHR,10:35:00,BUY,230.6002,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-27,COHR,15:56:00,SELL,235.6071,End of day: flat before the close
+2026-10-27,FIX,10:08:00,BUY,1262.9561,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-27,FIX,15:56:00,SELL,1283.8728,End of day: flat before the close
+2026-10-27,CIEN,10:32:00,BUY,346.3875,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-27,CIEN,15:56:00,SELL,350.9245,End of day: flat before the close
+2026-10-27,RDDT,12:32:00,BUY,139.3296,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-27,RDDT,13:52:00,SELL,138.021,Trend broke: below VWAP with falling momentum
+2026-10-27,MRNA,10:49:00,BUY,195.6978,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-27,MRNA,10:56:00,SELL,192.5805,Stop-loss hit
+2026-10-27,MRNA,11:38:00,BUY,195.2009,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-27,MRNA,15:56:00,SELL,208.1559,End of day: flat before the close
+2026-10-27,SNDK,11:59:00,BUY,1302.721,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-27,SNDK,14:12:00,SELL,1296.3015,Trend broke: below VWAP with falling momentum
