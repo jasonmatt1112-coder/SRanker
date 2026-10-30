@@ -203,3 +203,15 @@ date,ticker,time,action,price,reason
 2026-10-29,MRNA,09:58:00,SELL,219.4901,Stop-loss hit
 2026-10-29,MRNA,10:42:00,BUY,222.6112,"Breakout confirmed above the opening range, VWAP and momentum agree"
 2026-10-29,MRNA,10:49:00,SELL,220.4397,Trend broke: below VWAP with falling momentum
+2026-10-30,LITE,15:25:00,BUY,837.4585,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-30,LITE,15:56:00,SELL,843.548,End of day: flat before the close
+2026-10-30,STX,10:01:00,BUY,677.3085,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-30,STX,10:08:00,SELL,667.666,Stop-loss hit
+2026-10-30,FTNT,09:54:00,BUY,138.3892,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-30,FTNT,09:57:00,SELL,136.7916,Stop-loss hit
+2026-10-30,TWLO,09:50:00,BUY,195.6878,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-30,TWLO,09:57:00,SELL,196.5017,Trailing stop hit (gains locked in)
+2026-10-30,TWLO,10:38:00,BUY,202.8013,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-30,TWLO,10:51:00,SELL,199.9,Stop-loss hit
+2026-10-30,TWLO,11:29:00,BUY,202.5012,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-10-30,TWLO,12:13:00,SELL,199.2903,Stop-loss hit
