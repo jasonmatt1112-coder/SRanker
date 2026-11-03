@@ -227,3 +227,17 @@ date,ticker,time,action,price,reason
 2026-11-02,COIN,10:20:00,SELL,141.4516,Stop-loss hit
 2026-11-02,MRNA,11:50:00,BUY,225.4727,"Breakout confirmed above the opening range, VWAP and momentum agree"
 2026-11-02,MRNA,12:28:00,SELL,223.1334,Trend broke: below VWAP with falling momentum
+2026-11-03,ORCL,09:55:00,BUY,124.012,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-03,ORCL,11:32:00,SELL,124.6664,Trailing stop hit (gains locked in)
+2026-11-03,ORCL,11:56:00,BUY,125.4827,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-03,ORCL,14:03:00,SELL,126.3518,Trailing stop hit (gains locked in)
+2026-11-03,ORCL,15:18:00,BUY,125.4827,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-03,ORCL,15:56:00,SELL,126.1619,End of day: flat before the close
+2026-11-03,COHR,11:04:00,BUY,212.2361,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-03,COHR,11:24:00,SELL,210.0599,Trend broke: below VWAP with falling momentum
+2026-11-03,DDOG,10:22:00,BUY,220.6453,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-03,DDOG,14:03:00,SELL,218.9205,Trend broke: below VWAP with falling momentum
+2026-11-03,DDOG,15:11:00,BUY,220.3201,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-03,DDOG,15:56:00,SELL,221.6541,End of day: flat before the close
+2026-11-03,SMCI,13:34:00,BUY,31.8609,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-03,SMCI,13:52:00,SELL,31.5792,Trend broke: below VWAP with falling momentum
