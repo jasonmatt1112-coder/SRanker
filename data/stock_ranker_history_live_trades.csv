@@ -241,3 +241,9 @@ date,ticker,time,action,price,reason
 2026-11-03,DDOG,15:56:00,SELL,221.6541,End of day: flat before the close
 2026-11-03,SMCI,13:34:00,BUY,31.8609,"Breakout confirmed above the opening range, VWAP and momentum agree"
 2026-11-03,SMCI,13:52:00,SELL,31.5792,Trend broke: below VWAP with falling momentum
+2026-11-04,OKTA,10:17:00,BUY,191.2156,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-04,OKTA,10:41:00,SELL,188.1709,Stop-loss hit
+2026-11-04,OKTA,11:57:00,BUY,187.2636,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-04,OKTA,12:03:00,SELL,186.1968,Trend broke: below VWAP with falling momentum
+2026-11-04,AMD,09:48:00,BUY,513.3759,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-04,AMD,09:51:00,SELL,504.5276,Stop-loss hit
