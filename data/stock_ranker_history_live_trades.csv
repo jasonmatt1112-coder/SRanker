@@ -257,3 +257,31 @@ date,ticker,time,action,price,reason
 2026-11-05,SMCI,15:02:00,SELL,27.4411,Trailing stop hit (gains locked in)
 2026-11-05,AMD,11:19:00,BUY,426.228,"Breakout confirmed above the opening range, VWAP and momentum agree"
 2026-11-05,AMD,11:46:00,SELL,421.8989,Trend broke: below VWAP with falling momentum
+2026-11-06,SNDK,09:47:00,BUY,907.4985,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-06,SNDK,09:55:00,SELL,889.1252,Stop-loss hit
+2026-11-06,MRVL,09:47:00,BUY,146.003,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-06,MRVL,09:55:00,SELL,144.0779,Stop-loss hit
+2026-11-06,DDOG,09:47:00,BUY,183.1715,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-06,DDOG,10:11:00,SELL,179.6002,Stop-loss hit
+2026-11-06,DDOG,13:05:00,BUY,179.8649,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-06,DDOG,13:15:00,SELL,179.3003,Trend broke: below VWAP with falling momentum
+2026-11-06,DDOG,14:37:00,BUY,181.9709,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-06,DDOG,15:44:00,SELL,179.6002,Stop-loss hit
+2026-11-06,AMD,09:47:00,BUY,458.264,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-06,AMD,10:05:00,SELL,451.844,Stop-loss hit
+2026-11-06,BE,09:50:00,BUY,185.9729,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-06,BE,09:54:00,SELL,182.9085,Stop-loss hit
+2026-11-06,MU,09:47:00,BUY,724.7122,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-06,MU,09:55:00,SELL,714.4726,Stop-loss hit
+2026-11-06,COHR,09:50:00,BUY,191.2056,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-06,COHR,10:07:00,SELL,188.5857,Stop-loss hit
+2026-11-06,COHR,11:25:00,BUY,192.8205,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-06,COHR,11:44:00,SELL,189.935,Stop-loss hit
+2026-11-06,COHR,12:28:00,BUY,190.5952,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-06,COHR,12:39:00,SELL,187.7661,Stop-loss hit
+2026-11-06,FLEX,09:51:00,BUY,71.2856,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-06,FLEX,09:55:00,SELL,70.1099,Stop-loss hit
+2026-11-06,FLEX,14:06:00,BUY,69.5097,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-06,FLEX,15:56:00,SELL,69.7051,End of day: flat before the close
+2026-11-06,LITE,09:47:00,BUY,558.8643,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-06,LITE,09:53:00,SELL,551.5941,Stop-loss hit
