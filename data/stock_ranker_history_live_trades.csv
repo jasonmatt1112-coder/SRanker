@@ -427,3 +427,51 @@ date,ticker,time,action,price,reason
 2026-11-11,LITE,12:09:00,SELL,667.656,Trailing stop hit (gains locked in)
 2026-11-11,LITE,12:21:00,BUY,672.0759,"Breakout confirmed above the opening range, VWAP and momentum agree"
 2026-11-11,LITE,14:16:00,SELL,662.4586,Stop-loss hit
+2026-11-12,SNDK,10:53:00,BUY,938.9743,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,SNDK,11:38:00,SELL,938.9503,Trailing stop hit (gains locked in)
+2026-11-12,SNDK,11:53:00,BUY,945.8728,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,SNDK,13:44:00,SELL,933.823,Stop-loss hit
+2026-11-12,STX,09:48:00,BUY,537.4186,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,STX,10:07:00,SELL,537.3012,Trailing stop hit (gains locked in)
+2026-11-12,STX,10:26:00,BUY,544.277,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,STX,11:31:00,SELL,550.7145,Trailing stop hit (gains locked in)
+2026-11-12,STX,11:56:00,BUY,547.7737,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,STX,13:52:00,SELL,540.2298,Stop-loss hit
+2026-11-12,MRVL,09:53:00,BUY,164.3121,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,MRVL,10:07:00,SELL,162.0989,Stop-loss hit
+2026-11-12,MRVL,10:45:00,BUY,164.4622,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,MRVL,11:33:00,SELL,166.9265,Trailing stop hit (gains locked in)
+2026-11-12,MRVL,12:34:00,BUY,165.1926,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,MRVL,15:33:00,SELL,164.1679,Trend broke: below VWAP with falling momentum
+2026-11-12,AMD,10:58:00,BUY,581.9708,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,AMD,11:41:00,SELL,586.2967,Trailing stop hit (gains locked in)
+2026-11-12,AMD,12:39:00,BUY,580.0699,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,AMD,15:35:00,SELL,580.2897,Trailing stop hit (gains locked in)
+2026-11-12,CIEN,10:53:00,BUY,291.6508,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,CIEN,11:31:00,SELL,295.5222,Trailing stop hit (gains locked in)
+2026-11-12,CIEN,11:53:00,BUY,295.3776,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,CIEN,15:56:00,SELL,294.8425,End of day: flat before the close
+2026-11-12,DELL,09:48:00,BUY,361.7808,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,DELL,10:09:00,SELL,355.6571,Stop-loss hit
+2026-11-12,DELL,10:53:00,BUY,361.4707,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,DELL,11:57:00,SELL,370.9444,Trailing stop hit (gains locked in)
+2026-11-12,DELL,12:16:00,BUY,373.9319,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,DELL,13:07:00,SELL,376.8515,Trailing stop hit (gains locked in)
+2026-11-12,LITE,09:53:00,BUY,624.322,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,LITE,09:57:00,SELL,615.2522,Stop-loss hit
+2026-11-12,LITE,10:42:00,BUY,625.3785,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,LITE,11:32:00,SELL,635.5121,Trailing stop hit (gains locked in)
+2026-11-12,LITE,11:54:00,BUY,631.7907,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,LITE,12:22:00,SELL,622.7585,Stop-loss hit
+2026-11-12,COHR,10:53:00,BUY,233.1915,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,COHR,11:26:00,SELL,237.5912,Trailing stop hit (gains locked in)
+2026-11-12,COHR,11:53:00,BUY,236.9184,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,COHR,12:24:00,SELL,233.2133,Stop-loss hit
+2026-11-12,COHR,12:36:00,BUY,235.1375,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,COHR,15:13:00,SELL,232.0039,Stop-loss hit
+2026-11-12,WDC,09:48:00,BUY,304.9874,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,WDC,11:31:00,SELL,311.874,Trailing stop hit (gains locked in)
+2026-11-12,WDC,11:53:00,BUY,311.7958,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,WDC,12:23:00,SELL,307.821,Stop-loss hit
+2026-11-12,WDC,12:35:00,BUY,309.2546,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-12,WDC,15:56:00,SELL,311.4342,End of day: flat before the close
