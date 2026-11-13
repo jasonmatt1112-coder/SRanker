@@ -475,3 +475,11 @@ date,ticker,time,action,price,reason
 2026-11-12,WDC,12:23:00,SELL,307.821,Stop-loss hit
 2026-11-12,WDC,12:35:00,BUY,309.2546,"Breakout confirmed above the opening range, VWAP and momentum agree"
 2026-11-12,WDC,15:56:00,SELL,311.4342,End of day: flat before the close
+2026-11-13,COHR,12:38:00,BUY,213.1015,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-13,COHR,12:54:00,SELL,212.4587,Trend broke: below VWAP with falling momentum
+2026-11-13,COHR,14:03:00,BUY,216.4082,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-13,COHR,15:56:00,SELL,218.1109,End of day: flat before the close
+2026-11-13,OKTA,12:11:00,BUY,182.7713,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-13,OKTA,15:56:00,SELL,182.7286,End of day: flat before the close
+2026-11-13,BE,15:22:00,BUY,191.5757,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-13,BE,15:56:00,SELL,191.879,End of day: flat before the close
