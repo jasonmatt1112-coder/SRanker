@@ -483,3 +483,21 @@ date,ticker,time,action,price,reason
 2026-11-13,OKTA,15:56:00,SELL,182.7286,End of day: flat before the close
 2026-11-13,BE,15:22:00,BUY,191.5757,"Breakout confirmed above the opening range, VWAP and momentum agree"
 2026-11-13,BE,15:56:00,SELL,191.879,End of day: flat before the close
+2026-11-16,COHR,10:58:00,BUY,206.7783,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-16,COHR,11:12:00,SELL,204.1979,Stop-loss hit
+2026-11-16,COHR,11:24:00,BUY,207.4137,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-16,COHR,12:21:00,SELL,204.7476,Stop-loss hit
+2026-11-16,AMAT,11:25:00,BUY,357.4987,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-16,AMAT,12:59:00,SELL,353.3832,Trend broke: below VWAP with falling momentum
+2026-11-16,STX,10:57:00,BUY,504.9824,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-16,STX,11:52:00,SELL,498.7455,Stop-loss hit
+2026-11-16,STX,12:43:00,BUY,500.19,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-16,STX,12:49:00,SELL,499.0254,Trend broke: below VWAP with falling momentum
+2026-11-16,STX,13:51:00,BUY,501.7507,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-16,STX,14:36:00,SELL,498.8704,Trend broke: below VWAP with falling momentum
+2026-11-16,P,11:25:00,BUY,104.5022,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-16,P,12:26:00,SELL,103.5582,Trend broke: below VWAP with falling momentum
+2026-11-16,P,13:52:00,BUY,104.002,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-16,P,14:38:00,SELL,103.6481,Trend broke: below VWAP with falling momentum
+2026-11-16,P,14:54:00,BUY,103.9069,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-16,P,15:00:00,SELL,103.7081,Trend broke: below VWAP with falling momentum
