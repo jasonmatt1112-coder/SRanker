@@ -519,3 +519,9 @@ date,ticker,time,action,price,reason
 2026-11-17,NVDA,14:53:00,SELL,152.6636,Trend broke: below VWAP with falling momentum
 2026-11-17,STX,13:22:00,BUY,499.2095,"Breakout confirmed above the opening range, VWAP and momentum agree"
 2026-11-17,STX,13:42:00,SELL,497.1113,Trend broke: below VWAP with falling momentum
+2026-11-18,DDOG,10:57:00,BUY,168.1565,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-18,DDOG,11:17:00,SELL,166.0419,Stop-loss hit
+2026-11-18,DDOG,12:30:00,BUY,167.8339,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-18,DDOG,13:06:00,SELL,165.857,Trend broke: below VWAP with falling momentum
+2026-11-18,DDOG,13:36:00,BUY,167.0235,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-18,DDOG,14:50:00,SELL,168.0759,Trailing stop hit (gains locked in)
