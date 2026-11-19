@@ -525,3 +525,19 @@ date,ticker,time,action,price,reason
 2026-11-18,DDOG,13:06:00,SELL,165.857,Trend broke: below VWAP with falling momentum
 2026-11-18,DDOG,13:36:00,BUY,167.0235,"Breakout confirmed above the opening range, VWAP and momentum agree"
 2026-11-18,DDOG,14:50:00,SELL,168.0759,Trailing stop hit (gains locked in)
+2026-11-19,P,09:51:00,BUY,113.2366,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-19,P,10:21:00,SELL,111.7341,Stop-loss hit
+2026-11-19,P,11:05:00,BUY,114.8274,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-19,P,11:51:00,SELL,114.1529,Trailing stop hit (gains locked in)
+2026-11-19,PANW,11:13:00,BUY,360.3701,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-19,PANW,11:19:00,SELL,358.0009,Trend broke: below VWAP with falling momentum
+2026-11-19,OKTA,11:04:00,BUY,214.027,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-19,OKTA,11:51:00,SELL,211.0144,Stop-loss hit
+2026-11-19,MRNA,11:40:00,BUY,200.9804,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-19,MRNA,11:52:00,SELL,198.1418,Stop-loss hit
+2026-11-19,MRNA,12:25:00,BUY,202.9314,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-19,MRNA,13:56:00,SELL,200.2998,Stop-loss hit
+2026-11-19,MRNA,14:42:00,BUY,200.9955,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-19,MRNA,15:28:00,SELL,198.4407,Stop-loss hit
+2026-11-19,AMD,09:51:00,BUY,554.301,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-19,AMD,09:56:00,SELL,545.5421,Stop-loss hit
