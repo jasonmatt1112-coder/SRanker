@@ -541,3 +541,11 @@ date,ticker,time,action,price,reason
 2026-11-19,MRNA,15:28:00,SELL,198.4407,Stop-loss hit
 2026-11-19,AMD,09:51:00,BUY,554.301,"Breakout confirmed above the opening range, VWAP and momentum agree"
 2026-11-19,AMD,09:56:00,SELL,545.5421,Stop-loss hit
+2026-11-20,MU,10:01:00,BUY,656.5756,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-20,MU,10:07:00,SELL,648.1657,Stop-loss hit
+2026-11-20,TTWO,09:55:00,BUY,211.7608,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-20,TTWO,10:03:00,SELL,208.9355,Stop-loss hit
+2026-11-20,TTWO,11:59:00,BUY,211.3106,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-20,TTWO,12:48:00,SELL,208.3258,Stop-loss hit
+2026-11-20,TTWO,14:22:00,BUY,213.0765,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-20,TTWO,14:23:00,SELL,203.858,Stop-loss hit
