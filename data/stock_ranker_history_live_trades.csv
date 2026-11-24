@@ -549,3 +549,25 @@ date,ticker,time,action,price,reason
 2026-11-20,TTWO,12:48:00,SELL,208.3258,Stop-loss hit
 2026-11-20,TTWO,14:22:00,BUY,213.0765,"Breakout confirmed above the opening range, VWAP and momentum agree"
 2026-11-20,TTWO,14:23:00,SELL,203.858,Stop-loss hit
+2026-11-23,MU,10:01:00,BUY,695.9579,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-23,MU,10:46:00,SELL,706.9563,Trailing stop hit (gains locked in)
+2026-11-23,MU,11:08:00,BUY,710.6051,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-23,MU,11:42:00,SELL,698.7255,Stop-loss hit
+2026-11-23,MU,11:55:00,BUY,706.4731,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-23,MU,14:50:00,SELL,700.5096,Trend broke: below VWAP with falling momentum
+2026-11-23,NVDA,09:55:00,BUY,165.0425,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-23,NVDA,10:04:00,SELL,166.3367,Trailing stop hit (gains locked in)
+2026-11-23,NVDA,10:19:00,BUY,167.9689,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-23,NVDA,10:34:00,SELL,168.6356,Trailing stop hit (gains locked in)
+2026-11-23,NVDA,11:02:00,BUY,167.834,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-23,NVDA,11:19:00,SELL,165.6421,Stop-loss hit
+2026-11-23,MRVL,10:14:00,BUY,147.5037,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-23,MRVL,10:34:00,SELL,147.921,Trailing stop hit (gains locked in)
+2026-11-23,MCHP,10:08:00,BUY,61.1105,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-23,MCHP,10:46:00,SELL,60.9695,Trailing stop hit (gains locked in)
+2026-11-23,MCHP,11:10:00,BUY,61.1105,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-23,MCHP,11:39:00,SELL,60.5697,Trend broke: below VWAP with falling momentum
+2026-11-23,MCHP,14:31:00,BUY,60.8804,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-23,MCHP,14:38:00,SELL,60.5147,Trend broke: below VWAP with falling momentum
+2026-11-23,GPN,10:08:00,BUY,92.7263,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-23,GPN,10:14:00,SELL,92.1889,Trend broke: below VWAP with falling momentum
