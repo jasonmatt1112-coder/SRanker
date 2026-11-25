@@ -571,3 +571,9 @@ date,ticker,time,action,price,reason
 2026-11-23,MCHP,14:38:00,SELL,60.5147,Trend broke: below VWAP with falling momentum
 2026-11-23,GPN,10:08:00,BUY,92.7263,"Breakout confirmed above the opening range, VWAP and momentum agree"
 2026-11-23,GPN,10:14:00,SELL,92.1889,Trend broke: below VWAP with falling momentum
+2026-11-24,DELL,14:17:00,BUY,299.2555,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-24,DELL,14:34:00,SELL,297.2163,Trend broke: below VWAP with falling momentum
+2026-11-24,NVDA,12:10:00,BUY,152.8264,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-24,NVDA,15:56:00,SELL,155.0225,End of day: flat before the close
+2026-11-24,TER,12:46:00,BUY,216.6933,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-24,TER,12:53:00,SELL,213.6481,Stop-loss hit
