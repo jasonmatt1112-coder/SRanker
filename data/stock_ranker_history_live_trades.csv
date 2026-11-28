@@ -635,3 +635,29 @@ date,ticker,time,action,price,reason
 2026-11-25,P,12:25:00,SELL,89.5552,Trailing stop hit (gains locked in)
 2026-11-25,P,12:39:00,BUY,90.3351,"Breakout confirmed above the opening range, VWAP and momentum agree"
 2026-11-25,P,13:00:00,SELL,90.8018,Trailing stop hit (gains locked in)
+2026-11-27,DELL,10:13:00,BUY,314.047,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-27,DELL,12:45:00,SELL,312.5437,Market closed
+2026-11-27,MU,10:38:00,BUY,635.7184,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-27,MU,12:04:00,SELL,637.3712,Trailing stop hit (gains locked in)
+2026-11-27,MU,12:21:00,BUY,641.2705,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-27,MU,12:59:00,SELL,645.4371,Market closed
+2026-11-27,HPE,10:38:00,BUY,42.7764,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-27,HPE,12:31:00,SELL,42.4388,Trend broke: below VWAP with falling momentum
+2026-11-27,AMD,10:40:00,BUY,415.8378,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-27,AMD,12:39:00,SELL,414.8325,Trailing stop hit (gains locked in)
+2026-11-27,AMD,12:56:00,BUY,420.7102,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-27,AMD,12:59:00,SELL,425.6521,Market closed
+2026-11-27,ADI,11:47:00,BUY,343.9219,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-27,ADI,12:59:00,SELL,345.6871,Market closed
+2026-11-27,MRVL,12:57:00,BUY,138.5893,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-27,MRVL,12:59:00,SELL,140.9395,Market closed
+2026-11-27,FLEX,10:41:00,BUY,69.945,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-27,FLEX,10:53:00,SELL,69.0854,Stop-loss hit
+2026-11-27,FLEX,11:08:00,BUY,69.6148,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-27,FLEX,12:09:00,SELL,69.2254,Trend broke: below VWAP with falling momentum
+2026-11-27,FLEX,12:56:00,BUY,69.3447,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-27,FLEX,12:59:00,SELL,69.875,Market closed
+2026-11-27,LRCX,12:56:00,BUY,189.8449,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-27,LRCX,12:59:00,SELL,192.5837,Market closed
+2026-11-27,BE,11:47:00,BUY,162.5612,"Breakout confirmed above the opening range, VWAP and momentum agree"
+2026-11-27,BE,12:41:00,SELL,160.5197,Stop-loss hit
